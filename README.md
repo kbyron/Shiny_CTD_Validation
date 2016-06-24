@@ -4,3 +4,7 @@ This shiny application is designed for validating oceanographic data collected f
 Shiny Modules are used to dynamically create tabs for each sensor. The oce package is used to parse the data file, seabird format in included examples. See the oce package details for other sensors that are supported. 
 
 This is an early release of a preliminary tool intended to replace an outdated software package that is no longer supported. There are still refinement issues to work out. This packaged is shared here to highlight some of the work being done in R by staff with the City of San Diego's Ocean Monitoring Program.
+
+View a copy of the poster we created for UseR!2016 titled "Making Shiny Seaworthy: A weighted smoothing model for validating oceanographic data at sea."
+
+![UseR!2016 Poster](https://github.com/kbyron/Shiny_CTD_Validation/blob/master/MakingShinySeaworthy.pdf)
